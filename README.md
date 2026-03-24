@@ -1,42 +1,45 @@
 # Nemosine
 
-**Nemosine** is a modular cognitive architecture for structured human–AI reasoning.  
-It is designed to transform diffuse thinking into explicit, auditable, and orchestrated cognitive processes.
+**Nemosine** is a modular cognitive architecture for structured human–AI reasoning.
+
+It does not add intelligence.  
+It **structures how intelligence is used**.
 
 ---
 
-## Why Nemosine Exists
+## The Problem
 
-Current interaction with AI systems suffers from three fundamental problems:
+Interaction with AI today is:
 
-- Lack of **traceability** — decisions cannot be reconstructed
-- Lack of **structure** — reasoning is fragmented and inconsistent
-- Misplaced **responsibility** — alignment is treated as a model problem instead of a user/system problem
-
-Nemosine addresses these issues by introducing a **structured cognitive layer** between the user and AI systems.
+- Non-traceable → decisions cannot be reconstructed  
+- Unstructured → reasoning is inconsistent  
+- Misaligned → responsibility is assigned to the model instead of the user/system  
 
 ---
 
-## Core Idea
+## The Proposal
 
-Nemosine treats cognition as a **modular system**, composed of distinct functional units:
+Nemosine introduces a **cognitive layer between the user and AI**.
 
-- **Personas** → specialized cognitive roles (analysis, strategy, critique, etc.)
-- **Orchestration** → deterministic routing of thought processes
-- **Cycles** → structured input → processing → output → logging
+Instead of prompting blindly, it enforces:
 
-This enables:
-
-- Reproducible reasoning  
+- Structured reasoning  
 - Explicit delegation of cognition  
-- Auditability of decisions  
+- Reproducible decision processes  
 
 ---
 
-## Architecture Overview
+## Core Mechanism
 
-Nemosine operates as a **middleware for cognition**:
+Cognition is modeled as a modular system:
 
+- **Personas** → functional cognitive roles  
+- **Orchestration** → deterministic routing of reasoning  
+- **Cycles** → input → processing → output → logging  
+
+---
+
+## Architecture
 User Input
 ↓
 Orchestrator (deterministic structure)
@@ -48,43 +51,44 @@ LLM Interaction (reactive layer)
 Output + Trace Log
 
 
-The system does not replace AI models — it **structures how they are used**.
+Nemosine is not a model.  
+It is a **control structure over model usage**.
 
 ---
 
 ## Key Papers
 
-### Alignment and the Locus of Responsibility  
-Reframes alignment as a problem of **user-side cognitive structure**, not model behavior.  
+### 🔥 Alignment and the Locus of Responsibility *(Entry Point)*  
+Reframes alignment as a **user-side cognitive problem**, not model behavior.  
 → [https://philpapers.org/rec/MELTAD-2]
 
 ---
 
-### Modular Cognitive Architecture for Assisted Reasoning  
-Introduces the Nemosine framework as a **symbolic-modular system** for reasoning.  
+### 🧠 Modular Cognitive Architecture for Assisted Reasoning *(Core)*  
+Defines Nemosine as a **symbolic-modular reasoning system**.  
 → [https://doi.org/10.48550/arXiv.2512.04500]
 
 ---
 
-### Extended Mind Reframed as Cognitive Architecture  
-Positions cognitive extension as **structured scaffolding**, not diffuse augmentation.  
+### 🌌 Extended Mind Reframed as Cognitive Architecture *(Expansion)*  
+Reinterprets cognitive extension as **structured scaffolding**.  
 → [https://philpapers.org/rec/MELFDE]
 
 ---
 
-## Entry Points
+## How to Approach This
 
-- **For AI researchers** → architecture and auditability  
-- **For philosophy** → cognition, agency, and responsibility  
-- **For applied use** → decision-making and structured reasoning  
+- If you work with AI → focus on architecture and auditability  
+- If you work with philosophy → focus on agency and responsibility  
+- If you want practical use → focus on structured reasoning workflows  
 
 ---
 
 ## Current Status
 
 - Independent research initiative  
-- Active development and iteration  
-- Multiple preprints across repositories (arXiv, SSRN, TechRxiv, etc.)
+- Active and evolving system  
+- Multiple indexed preprints across major repositories  
 
 ---
 
@@ -93,29 +97,32 @@ Positions cognitive extension as **structured scaffolding**, not diffuse augment
 **Edervaldo José de Souza Melo**  
 Independent researcher  
 
-ORCID: https://orcid.org/0009-0003-6835-135X  
+ORCID: [https://orcid.org/0009-0003-6835-135X]
 
 ---
 
 ## Official Repositories
 
-- Zenodo → [https://zenodo.org/communities/sistema-nemosine]
-- OSF → [https://osf.io/r4yf8]
-- arXiv → [https://arxiv.org/a/desouzamelo_e_1.html]
-- TechRxiv → [https://www.techrxiv.org/users/1012224]
-- PhilArchiv → [https://philpeople.org/profiles/edervaldo-melo]
-- SSRN → [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9655052]
-- Qeios → [https://www.qeios.com/profile/106570]
-- SciELO → [https://preprints.scielo.org/index.php/scielo/preprint/view/14341]
-- LingBuzz → [https://ling.auf.net/lingbuzz/009834]
-- Preprints.org → [https://sciprofiles.com/profile/edersouzamelo]
+- Zenodo → [https://zenodo.org/communities/sistema-nemosine] 
+- OSF → [https://osf.io/r4yf8]  
+- arXiv → [https://arxiv.org/a/desouzamelo_e_1.html] 
+- TechRxiv → [https://www.techrxiv.org/users/1012224]  
+- PhilArchive → [https://philpeople.org/profiles/edervaldo-melo]  
+- SSRN → [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9655052]  
+- Qeios → [https://www.qeios.com/profile/106570] 
+- SciELO → [https://preprints.scielo.org/index.php/scielo/preprint/view/14341]  
+- LingBuzz → [https://ling.auf.net/lingbuzz/009834] 
+- Preprints.org → [https://sciprofiles.com/profile/edersouzamelo]  
 
 ---
 
-## Notes
+## Final Note
 
-Nemosine is not a theory in isolation.  
-It is an **operational system** for structuring cognition in interaction with AI.
+Nemosine is not a conceptual framework.
 
-Its goal is not to interpret intelligence —  
-but to **make reasoning explicit, controllable, and evolvable**.
+It is an attempt to make reasoning:
+
+- Explicit  
+- Controllable  
+- Auditable  
+- Evolvable
