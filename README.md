@@ -56,19 +56,19 @@ The system does not replace AI models — it **structures how they are used**.
 
 ### Alignment and the Locus of Responsibility  
 Reframes alignment as a problem of **user-side cognitive structure**, not model behavior.  
-→ [Link]
+→ [https://philpapers.org/rec/MELTAD-2]
 
 ---
 
 ### Modular Cognitive Architecture for Assisted Reasoning  
 Introduces the Nemosine framework as a **symbolic-modular system** for reasoning.  
-→ [Link]
+→ [https://doi.org/10.48550/arXiv.2512.04500]
 
 ---
 
 ### Extended Mind Reframed as Cognitive Architecture  
 Positions cognitive extension as **structured scaffolding**, not diffuse augmentation.  
-→ [Link]
+→ [https://philpapers.org/rec/MELFDE]
 
 ---
 
@@ -99,9 +99,16 @@ ORCID: https://orcid.org/0009-0003-6835-135X
 
 ## Official Repositories
 
-- Zenodo → https://zenodo.org/communities/sistema-nemosine  
-- OSF → [Link]  
-- SSRN / TechRxiv / others → [Links]
+- Zenodo → [https://zenodo.org/communities/sistema-nemosine]
+- OSF → [https://osf.io/r4yf8]
+- arXiv → [https://arxiv.org/a/desouzamelo_e_1.html]
+- TechRxiv → [https://www.techrxiv.org/users/1012224]
+- PhilArchiv → [https://philpeople.org/profiles/edervaldo-melo]
+- SSRN → [https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=9655052]
+- Qeios → [https://www.qeios.com/profile/106570]
+- SciELO → [https://preprints.scielo.org/index.php/scielo/preprint/view/14341]
+- LingBuzz → [https://ling.auf.net/lingbuzz/009834]
+- Preprints.org → [https://sciprofiles.com/profile/edersouzamelo]
 
 ---
 
